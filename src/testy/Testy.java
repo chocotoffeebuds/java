@@ -17,7 +17,7 @@ public class Testy {
         // TODO code application logic here
         //idia shroud
         //hahahahahah
-        String cass = "Kalim aaaaaaaaaaaaaaaaaa";
+        String cass = "Kalim Jamil";
         System.out.println(cass);
     }
     
